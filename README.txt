@@ -9,6 +9,8 @@ Server端：server.py
 Node-RED：node_RED.txt
 Android App：HomeSensor
 說明文件 : README.txt
+報告投影片：第三組期末報告.pptx
+使用操作：使用操作.pdf
 ------------------------------------------------------------
 
 
